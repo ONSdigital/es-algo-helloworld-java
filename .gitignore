@@ -10,3 +10,5 @@ logs
 /project/target
 
 algorithm.zip
+/.idea/
+/target/
